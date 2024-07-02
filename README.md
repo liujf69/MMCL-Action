@@ -36,7 +36,7 @@ Our project is based on the [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN), [T
 # Citation
 ```
 @inproceedings{liu2024mmcl,
-  author = {Liu, Jinfu and Liu, Mengyuan},
+  author = {Liu, Jinfu and Chen, Chen and Liu, Mengyuan},
   title = {Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition}, 
   booktitle = {Proceedings of the ACM Multimedia (ACM MM)}, 
   year = {2024}
