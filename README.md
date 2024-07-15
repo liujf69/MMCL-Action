@@ -17,7 +17,7 @@ The complete code and the detailed reproduction steps will be uploaded soon. <br
 ```
 Frist, you must git clone the project of the multimodal LLMs.
 Then, you need to preserve the text features, not the text content.
-We suggest adopting more advanced multimodal LLMs (e.g. GLM-4V and DeepSeek-VL) to obtain text features.
+We suggest adopting more advanced multimodal LLMs (e.g. GLM-4V and DeepSeek-VL) and more complex prompts to obtain text features.
 ```
 
 # Train Model
