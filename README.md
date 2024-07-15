@@ -2,7 +2,7 @@
 This is the official repo of **Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**. <br />
 The complete code and the detailed reproduction steps will be uploaded soon. <br />
 ![image](./framework.png)
-
+<!--
 # Download dataset
 1. **NTU-RGB+D 60** dataset from [https://rose1.ntu.edu.sg/dataset/actionRecognition/](https://rose1.ntu.edu.sg/dataset/actionRecognition/)
 2. **NTU-RGB+D 120** dataset from [https://rose1.ntu.edu.sg/dataset/actionRecognition/](https://rose1.ntu.edu.sg/dataset/actionRecognition/)
@@ -48,6 +48,6 @@ Our project is based on the [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN), [T
   year = {2024}
 }
 ```
-
+-->
 # Contact
 For any questions, feel free to contact: ```liujf69@mail2.sysu.edu.cn```
