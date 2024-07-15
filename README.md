@@ -31,9 +31,10 @@ python main.py --device 0 --config ./config/nturgbd120-cross-subject/joint.yaml 
 ```
 
 # Result
-Method | NTU-60 X-Sub | NTU-60 X-View | NTU-120 X-Sub | NTU-120 X-Set | NW-UCLA  
------- | ------------ | ------------- | ------------- | ------------- |  
-MMCL   |     93.5     |      97.4     |      90.3     |      91.7     |   97.5
+
+| Method | NTU-60 X-Sub | NTU-60 X-View | NTU-120 X-Sub | NTU-120 X-Set | NW-UCLA |
+| ------ | ------------ | ------------- | ------------- | ------------- | -------
+|  MMCL  |     93.5     |      97.4     |      90.3     |      91.7     |   97.5  |
 
 # Thanks
 Our project is based on the [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN), [TD-GCN](https://github.com/liujf69/TD-GCN-Gesture), [EPP-Net](https://github.com/liujf69/EPP-Net-Action), [BLIP](https://github.com/salesforce/BLIP), [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4).
