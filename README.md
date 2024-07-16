@@ -1,8 +1,7 @@
 # Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition
 This is the official repo of **Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**. <br />
-The complete code and the detailed reproduction steps will be uploaded soon. <br />
 ![image](./framework.png)
-<!--
+
 # Download dataset
 1. **NTU-RGB+D 60** dataset from [https://rose1.ntu.edu.sg/dataset/actionRecognition/](https://rose1.ntu.edu.sg/dataset/actionRecognition/)
 2. **NTU-RGB+D 120** dataset from [https://rose1.ntu.edu.sg/dataset/actionRecognition/](https://rose1.ntu.edu.sg/dataset/actionRecognition/)
@@ -31,10 +30,9 @@ python main.py --device 0 --config ./config/nturgbd120-cross-subject/joint.yaml 
 ```
 
 # Result
-
 | Method | NTU-60 X-Sub | NTU-60 X-View | NTU-120 X-Sub | NTU-120 X-Set | NW-UCLA |
 | ------ | ------------ | ------------- | ------------- | ------------- | -------
-|  MMCL  |     93.5     |      97.4     |      90.3     |      91.7     |   97.5  |
+|  MMCL  |     93.5%    |      97.4%    |      90.3%    |      91.7%    |  97.5%  |
 
 # Thanks
 Our project is based on the [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN), [TD-GCN](https://github.com/liujf69/TD-GCN-Gesture), [EPP-Net](https://github.com/liujf69/EPP-Net-Action), [BLIP](https://github.com/salesforce/BLIP), [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4).
@@ -44,10 +42,7 @@ Our project is based on the [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN), [T
 @inproceedings{liu2024mmcl,
   author = {Liu, Jinfu and Chen, Chen and Liu, Mengyuan},
   title = {Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition}, 
-  booktitle = {Proceedings of the xxxx}, 
+  booktitle = {Proceedings of the ACM Multimedia (ACM MM)}, 
   year = {2024}
 }
 ```
--->
-# Contact
-For any questions, feel free to contact: ```liujf69@mail2.sysu.edu.cn```
