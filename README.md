@@ -1,6 +1,8 @@
 # Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition
 This is the official repo of **Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**. <br />
-![image](./framework.png)
+<div align=center>
+<img src ="./framework.png" width="1000"/>
+</div>
 
 # Download dataset
 1. **NTU-RGB+D 60** dataset from [https://rose1.ntu.edu.sg/dataset/actionRecognition/](https://rose1.ntu.edu.sg/dataset/actionRecognition/)
@@ -18,6 +20,9 @@ Frist, you must git clone the project of the multimodal LLMs.
 Then, you need to preserve the text features, not the text content.
 We suggest adopting more advanced multimodal LLMs (e.g. GLM-4V and DeepSeek-VL) and more complex prompts to obtain text features.
 ```
+<div align=center>
+<img src ="./fig.png" width="1000"/>
+</div>
 
 # Train Model
 Please store the data of different modalities in the specified path and modify the config file accordingly.
