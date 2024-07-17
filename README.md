@@ -1,7 +1,7 @@
 # Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition
 This is the official repo of **Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**. <br />
 <div align=center>
-<img src ="./framework.png" width="1000"/>
+<img src ="./MMCL_framework.png" width="1000"/>
 </div>
 
 # Download dataset
