@@ -1,5 +1,6 @@
 # Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition
 This is the official repo of **Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**. <br />
+[Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2407.15706)
 <div align=center>
 <img src ="./MMCL_framework.png" width="1000"/>
 </div>
