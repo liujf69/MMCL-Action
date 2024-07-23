@@ -29,11 +29,25 @@ We suggest adopting more advanced multimodal LLMs (e.g. GLM-4V and DeepSeek-VL) 
 # Train Model
 Please store the data of different modalities in the specified path and modify the config file accordingly.
 ```
+# NTU120-XSub
 python main.py --device 0 1 --config ./config/nturgbd120-cross-subject/joint.yaml
+# NTU120-XSet
+python main.py --device 0 1 --config ./config/nturgbd120-cross-set/joint.yaml
+# NTU60-XSub
+python main.py --device 0 1 --config ./config/nturgbd-cross-subject/joint.yaml
+# NTU60-XView
+python main.py --device 0 1 --config ./config/nturgbd-cross-view/joint.yaml
 ```
 # Test Model
 ```
+# NTU120-XSub
 python main.py --device 0 --config ./config/nturgbd120-cross-subject/joint.yaml --phase test --weights <work_dir>/NTU120-XSub.pt
+# NTU120-XSet
+python main.py --device 0 --config ./config/nturgbd120-cross-set/joint.yaml --phase test --weights <work_dir>/NTU120-XSet.pt
+# NTU60-XSub
+python main.py --device 0 --config ./config/nturgbd-cross-subject/joint.yaml --phase test --weights <work_dir>/NTU60-XSub.pt
+# NTU60-XView
+python main.py --device 0 --config ./config/nturgbd-cross-view/joint.yaml --phase test --weights <work_dir>/NTU60-XView.pt
 ```
 
 # Result
