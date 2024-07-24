@@ -1,7 +1,9 @@
 # Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition
-This is the official repo of **Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**. <br />
-[![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2407.15706)
-
+This is the official repo of **Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition** and our work is accepted by **ACM Multimedia 2024** (**ACM MM**). <br />
+[![Paper](https://img.shields.io/badge/cs.CV-Paper-b31b1b?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2407.15706) <br />
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-modality-co-learning-for-efficient-1/skeleton-based-action-recognition-on-ntu-rgbd-1)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1?p=multi-modality-co-learning-for-efficient-1) <br />
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-modality-co-learning-for-efficient-1/skeleton-based-action-recognition-on-ntu-rgbd)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd?p=multi-modality-co-learning-for-efficient-1) <br />
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-modality-co-learning-for-efficient-1/skeleton-based-action-recognition-on-n-ucla)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-n-ucla?p=multi-modality-co-learning-for-efficient-1) <br />
 <div align=center>
 <img src ="./MMCL_framework.png" width="1000"/>
 </div>
