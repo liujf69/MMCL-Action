@@ -62,6 +62,22 @@ python main_MMCL.py --device 0 --config ./config/nturgbd-cross-view/joint.yaml -
 | Method | NTU-60 X-Sub | NTU-60 X-View | NTU-120 X-Sub | NTU-120 X-Set | NW-UCLA |
 | ------ | ------------ | ------------- | ------------- | ------------- | -------
 |  MMCL  |     93.5%    |      97.4%    |      90.3%    |      91.7%    |  97.5%  |
+```python
+cd Ensemble
+# NTU120-XSub
+python ensemble.py \
+--J_Score ./Score/NTU120_XSub_J.pkl \
+--B_Score ./Score/NTU120_XSub_B.pkl \
+--JM_Score ./Score/NTU120_XSub_JM.pkl \
+--BM_Score ./Score/NTU120_XSub_BM.pkl \
+--HDJ_Score ./Score/NTU120_XSub_HDJ.pkl \
+--HDB_Score ./Score/NTU120_XSub_HDB.pkl \
+--val_sample ./Val_Sample/NTU120_XSub_Val.txt \
+--benchmark NTU120XSub
+
+# Others are similar to this method.
+```
+
 
 # Thanks
 Our project is based on the [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN), [TD-GCN](https://github.com/liujf69/TD-GCN-Gesture), [EPP-Net](https://github.com/liujf69/EPP-Net-Action), [BLIP](https://github.com/salesforce/BLIP), [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4).
