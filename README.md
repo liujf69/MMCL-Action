@@ -75,7 +75,7 @@ python ensemble.py \
 --val_sample ./Val_Sample/NTU120_XSub_Val.txt \
 --benchmark NTU120XSub
 
-# Others are similar to this method.
+# Others are similar to this way.
 ```
 
 
