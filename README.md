@@ -4,6 +4,7 @@ This is the official repo of **Multi-Modality Co-Learning for Efficient Skeleton
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-modality-co-learning-for-efficient-1/skeleton-based-action-recognition-on-ntu-rgbd-1)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd-1?p=multi-modality-co-learning-for-efficient-1) <br />
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-modality-co-learning-for-efficient-1/skeleton-based-action-recognition-on-ntu-rgbd)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-ntu-rgbd?p=multi-modality-co-learning-for-efficient-1) <br />
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-modality-co-learning-for-efficient-1/skeleton-based-action-recognition-on-n-ucla)](https://paperswithcode.com/sota/skeleton-based-action-recognition-on-n-ucla?p=multi-modality-co-learning-for-efficient-1) <br />
+[[Poster]](./Poster.pdf) <br />
 <div align=center>
 <img src ="./MMCL_framework.png" width="1000"/>
 </div>
